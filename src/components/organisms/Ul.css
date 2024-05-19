@@ -1,11 +1,11 @@
 #nav_bar{
     display: flex;
     width: 100%;
-    background-color: antiquewhite;
+    background-color: rgb(77, 198, 85);
 }
 
 #Lp_li_container{
     display: flex;
     width: 100%;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }

@@ -2,19 +2,24 @@ const mysql = {
     icons: [
         {
         section: "Inicio",
-        image: "home.png"
+        image: "./Iconos/home.png"
         },
         {
-        section: "Usuarios",
-        image: "user.png"
+        section: "Locales",
+        image: "./Iconos/local.png"
         },
         {
         section: "Comprar",
-        image: "car_shop.png"
+        image: "./Iconos/car_shop.png"
+        }
+    ],
+
+    image_products:[
+        {
+            image: "./Frutas/Frutas1.png"
         },
         {
-        section: "Menu",
-        image: "menu.png"
+            image: "./Frutas/Frutas2.png"
         }
     ]
 }
