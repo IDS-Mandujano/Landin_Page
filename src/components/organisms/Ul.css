@@ -1,0 +1,10 @@
+#nav_bar{
+    display: flex;
+    width: 100%;
+}
+
+#Lp_li_container{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}

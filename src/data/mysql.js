@@ -1,20 +1,20 @@
 const mysql = {
-    icons : [
+    icons: [
         {
-            img: "home.png",
-            nameIc : "Inicio"
+        section: "Inicio",
+        image: "home.png"
         },
         {
-            img: "user.png",
-            nameIc : "Usuario"
+        section: "Usuarios",
+        image: "user.png"
         },
         {
-            img: "car_shop.png",
-            nameIc : "Comprar"
+        section: "Comprar",
+        image: "car_shop.png"
         },
         {
-            img: "menu.png",
-            nameIc : "Menu"
+        section: "Menu",
+        image: "menu.png"
         }
     ]
 }
