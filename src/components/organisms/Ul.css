@@ -1,6 +1,7 @@
 #nav_bar{
     display: flex;
     width: 100%;
+    background-color: antiquewhite;
 }
 
 #Lp_li_container{
