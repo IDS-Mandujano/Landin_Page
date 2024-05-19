@@ -1,4 +1,4 @@
-import Section from "../components/organisms/Section/Section";
+import Section from "../components/organisms/Sctn_Home/Section"
 
 function Home(){
     return (

@@ -1,5 +1,5 @@
-import mysql from "../../data/mysql";
-import List from "../molecules/List";
+import List from '../../molecules/Cnt_Header/List';
+import mysql from '../../../data/mysql';
 import './Ul.css'
 
 function Ul_list(){

@@ -1,4 +1,4 @@
-import Item from "../atoms/List/Item";
+import Item from "../../atoms/Items_header/Item"
 import './list.css'
 
 function List(props){

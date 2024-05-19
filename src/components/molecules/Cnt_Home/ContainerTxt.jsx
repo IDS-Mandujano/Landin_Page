@@ -1,5 +1,5 @@
 import './containerTxt.css'
-import Text from "../../atoms/Text_Info/Text"
+import Text from "../../atoms/Items_home/Text"
 
 function ContainerTxt(){
     return (

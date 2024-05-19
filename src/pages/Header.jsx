@@ -1,4 +1,4 @@
-import Ul_list from "../components/organisms/Ul_list";
+import Ul_list from "../components/organisms/Sctn_Header/Ul_list";
 
 function Header(){
     return (

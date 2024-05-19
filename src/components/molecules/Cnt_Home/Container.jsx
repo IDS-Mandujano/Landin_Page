@@ -1,5 +1,5 @@
 import './container.css'
-import Image from "../../atoms/Image_home/Image"
+import Image from "../../atoms/Items_home/Image"
 
 function Container(props){
     return (

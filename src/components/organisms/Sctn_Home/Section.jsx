@@ -1,7 +1,7 @@
 import './section.css'
-import Container from "../../molecules/Image_container/Container"
-import ContainerTxt from '../../molecules/Text_home/ContainerTxt';
-import mysql from "../../../data/mysql"
+import Container from "../../molecules/Cnt_Home/Container"
+import ContainerTxt from "../../molecules/Cnt_Home/ContainerTxt"
+import mysql from '../../../data/mysql';
 
 function Section(){
     return (
