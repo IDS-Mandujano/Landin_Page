@@ -38,6 +38,28 @@ const mysql = {
             description: "¡Mire esta belleza! ¡Piña recién cortada, con ese aroma que te transporta al paraíso! Perfecta para tus jugos, ensaladas o simplemente para comerla fresquita. ¡Llena de vitamina C para mantenerte saludable y con energía!",
             image: "./Productos/Piña.png"
         }
+    ],
+    stock:[
+        {
+            name: "Mango",
+            description: "",
+            price: ""
+        },
+        {
+            name: "Rambutan",
+            description: "",
+            price: ""
+        },
+        {
+            name: "Piña",
+            description: "",
+            price: ""
+        },
+        {
+            name: "Sandia",
+            description: "",
+            price: ""
+        }
     ]
 }
 
