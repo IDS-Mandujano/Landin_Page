@@ -5,10 +5,10 @@ import mysql from '../../../data/mysql';
 
 function Section(){
     return (
-        <div id="Lp_section">
+        <div id="Home">
             <div id="Lp_imgContainer">
                 {
-                    mysql.image_products.map(ic=> <Container image={ic.image}></Container>)
+                    mysql.image_products.map(ic=> <Container key={""} image={ic.image}></Container>)
                 }
             </div>
             <div id="Lp_infoContainer">

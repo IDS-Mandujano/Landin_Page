@@ -7,7 +7,7 @@ function Ul_list(){
         <div id="nav_bar">   
             <ul id="Lp_li_container">
                 {
-                    mysql.icons.map(ic => <List section={ic.section} image={ic.image}></List>)
+                    mysql.icons.map(ic => <List key={""} section={ic.section} image={ic.image}></List>)
                 }
             </ul>
         </div>

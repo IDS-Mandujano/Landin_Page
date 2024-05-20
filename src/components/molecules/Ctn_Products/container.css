@@ -1,0 +1,6 @@
+#Lp_ctnProducst{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

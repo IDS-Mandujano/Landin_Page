@@ -1,14 +1,16 @@
 import './App.css'
 import Header from './pages/Header'
 import Home from './pages/Home'
+import Products from './pages/Products'
 
 function App() {
 
   return (
-    <>
-    <Header></Header>
-    <Home></Home>
-    </>
+    <div>
+      <Header></Header>
+      <Home></Home>
+      <Products></Products>
+    </div>
   )
 }
 
