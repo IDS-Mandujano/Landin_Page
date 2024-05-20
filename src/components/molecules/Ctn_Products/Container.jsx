@@ -1,7 +1,7 @@
 import './container.css'
-import Image from "../../atoms/Items_shop/Image"
-import Text from "../../atoms/Items_shop/Text"
-import Title from '../../atoms/Items_shop/Title';
+import Image from "../../atoms/Items_products/Image"
+import Text from "../../atoms/Items_products/Text"
+import Title from '../../atoms/Items_products/Title';
 
 function Container(props){
     return (
