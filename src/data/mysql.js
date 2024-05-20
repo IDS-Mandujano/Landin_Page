@@ -13,6 +13,7 @@ const mysql = {
         image: "./Iconos/car_shop.png"
         }
     ],
+
     image_products:[
         {
             image: "./Frutas/Frutas1.png"
@@ -21,6 +22,7 @@ const mysql = {
             image: "./Frutas/Frutas2.png"
         }
     ],
+
     frutas:[
         {
             name: "Mango",
@@ -39,26 +41,31 @@ const mysql = {
             image: "./Productos/Piña.png"
         }
     ],
+    
     stock:[
         {
             name: "Mango",
-            description: "",
-            price: ""
+            image: "./Stock/Mango.png",
+            description: "Jugoso y dulce, el mango es perfecto para disfrutar solo, en ensaladas o en batidos. Su carne suave y aromática lo convierte en una delicia tropical imprescindible.",
+            price: "$2.50 por unidad"
         },
         {
             name: "Rambutan",
-            description: "",
-            price: ""
+            image: "./Stock/Rambutan.png",
+            description: " Exótico y único, el rambután sorprende con su exterior peludo y su pulpa blanca y jugosa. Con un sabor similar al lichi, es ideal para una merienda refrescante y nutritiva.",
+            price: "$3.00 por cada 500 gramos"
         },
         {
             name: "Piña",
-            description: "",
-            price: ""
+            image: "./Stock/Piña.png",
+            description: "Refrescante y llena de sabor, la sandía es la fruta perfecta para los días calurosos. Con su carne roja y jugosa, es ideal para disfrutar en rodajas, ensaladas o jugos.",
+            price: "$4.00 por unidad"
         },
         {
             name: "Sandia",
-            description: "",
-            price: ""
+            image: "./Stock/Sandia.png",
+            description: "Refrescante y llena de sabor, la sandía es la fruta perfecta para los días calurosos. Con su carne roja y jugosa, es ideal para disfrutar en rodajas, ensaladas o jugos.",
+            price: "$0.60 por kilogramo"
         }
     ]
 }

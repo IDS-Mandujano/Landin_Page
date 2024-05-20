@@ -1,0 +1,6 @@
+#Comprar{
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
