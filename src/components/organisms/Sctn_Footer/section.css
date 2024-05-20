@@ -1,0 +1,21 @@
+#Footer{
+    background-color: rgba(170, 186, 175, 0.712);
+    display: flex;
+    flex-flow: row-reverse;
+    width: 100%;
+    height: 150px;
+}
+
+#Sctn_Txt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+
+#Sctn_Img{
+    display: flex;
+    width: 20%;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+}

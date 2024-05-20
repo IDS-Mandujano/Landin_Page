@@ -46,26 +46,41 @@ const mysql = {
         {
             name: "Mango",
             image: "./Stock/Mango.png",
-            description: "Jugoso y dulce, el mango es perfecto para disfrutar solo, en ensaladas o en batidos. Su carne suave y aromática lo convierte en una delicia tropical imprescindible.",
+            description: "¡Aquí está el rey de las frutas tropicales! ¡Mango dulce y suculento, perfecto para tus batidos, salsas, o para disfrutarlo al natural!",
             price: "$2.50 por unidad"
         },
         {
             name: "Rambutan",
             image: "./Stock/Rambutan.png",
-            description: " Exótico y único, el rambután sorprende con su exterior peludo y su pulpa blanca y jugosa. Con un sabor similar al lichi, es ideal para una merienda refrescante y nutritiva.",
+            description: "¡Vea esta fruta tan especial! ¡Rambután, directo del trópico, con su cáscara roja y espinosa que esconde una pulpa blanca y jugosa!",
             price: "$3.00 por cada 500 gramos"
         },
         {
             name: "Piña",
             image: "./Stock/Piña.png",
-            description: "Refrescante y llena de sabor, la sandía es la fruta perfecta para los días calurosos. Con su carne roja y jugosa, es ideal para disfrutar en rodajas, ensaladas o jugos.",
+            description: "¡Mire esta belleza! ¡Piña recién cortada, con ese aroma que te transporta al paraíso! Perfecta para tus jugos, ensaladas o simplemente para comerla fresquita",
             price: "$4.00 por unidad"
         },
         {
             name: "Sandia",
             image: "./Stock/Sandia.png",
-            description: "Refrescante y llena de sabor, la sandía es la fruta perfecta para los días calurosos. Con su carne roja y jugosa, es ideal para disfrutar en rodajas, ensaladas o jugos.",
+            description: "¡Mire esta belleza! ¡Sandía recién cortada, con ese aroma fresco que te transporta al verano! Perfecta para tus jugos, ensaladas o simplemente para comerla bien fría.",
             price: "$0.60 por kilogramo"
+        }
+    ],
+
+    Social_Links: [
+        {
+            links: "",
+            icon: "./Socials/fb.png"
+        },
+        {
+            links: "",
+            icon: "./Socials/ghb.png"
+        },
+        {
+            links: "",
+            icon: "./Socials/lkndIn.png"
         }
     ]
 }
